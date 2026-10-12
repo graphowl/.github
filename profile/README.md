@@ -7,7 +7,7 @@
 
 ## GraphOWL
 
-A knowledge graph engine for enterprise metadata — stores, queries, reasons over and validates it as one connected graph.
+A knowledge graph engine — stores, queries, reasons over and validates connected knowledge from your databases, documents and systems.
 
 - Website: [graphowl.app](https://graphowl.app)
 - Live demo (password-protected, synthetic data): [demo.graphowl.app](https://demo.graphowl.app) — request access at connect@graphowl.app
