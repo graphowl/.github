@@ -15,7 +15,7 @@ Model, query, reason over and validate connected knowledge from your databases, 
 |---|---|
 | 🌐 Website | [graphowl.app](https://graphowl.app) |
 | 📚 Documentation | [docs.graphowl.app](https://docs.graphowl.app): quickstart, concepts, guides, cookbooks, API and MCP reference |
-| 🧪 Live demo | [demo.graphowl.app](https://demo.graphowl.app): password-protected, synthetic data; email <connect@graphowl.app> for a login |
+| 🧪 Live demo | [demo.graphowl.app](https://demo.graphowl.app): synthetic data; get a passcode by [booking a walkthrough](https://demo.graphowl.app/__access) |
 | 📦 Run it yourself | an early-access container: [`graphowl/graphowl/run`](https://github.com/graphowl/graphowl/tree/main/run) |
 | 🔌 Libraries | [`sdk-python`](https://github.com/graphowl/sdk-python) · [`sdk-typescript`](https://github.com/graphowl/sdk-typescript) · [`python-client`](https://github.com/graphowl/python-client) |
 | 🧰 Examples | [`examples`](https://github.com/graphowl/examples) |
