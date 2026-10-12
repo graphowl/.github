@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/graphowl/graphowl/main/assets/logo-lockup-dark.svg">
+    <img src="https://raw.githubusercontent.com/graphowl/graphowl/main/assets/logo-lockup.svg" alt="GraphOWL" width="320">
+  </picture>
+</p>
+
 ## GraphOWL
 
 A knowledge graph engine for enterprise metadata — stores, queries, reasons over and validates it as one connected graph.
